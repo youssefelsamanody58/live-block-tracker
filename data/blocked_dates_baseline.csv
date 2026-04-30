@@ -8875,10 +8875,10 @@ unit_id,date,status,blocked,price_egp
 5620,2026-06-29,blocked,True,9116.0
 5620,2026-06-30,available,False,9116.0
 5620,2026-07-01,available,False,15211.0
-5620,2026-07-02,blocked,True,15211.0
-5620,2026-07-03,blocked,True,15211.0
-5620,2026-07-04,blocked,True,15211.0
-5620,2026-07-05,blocked,True,15211.0
+5620,2026-07-02,available,False,15211.0
+5620,2026-07-03,available,False,15211.0
+5620,2026-07-04,available,False,15211.0
+5620,2026-07-05,available,False,15211.0
 5620,2026-07-06,available,False,15211.0
 5620,2026-07-07,available,False,15211.0
 5620,2026-07-08,available,False,15211.0
