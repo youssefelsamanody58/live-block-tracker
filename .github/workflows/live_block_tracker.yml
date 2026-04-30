@@ -1,4 +1,4 @@
-name: Birdnest Live Block Tracker
+name: Live Block Tracker
 
 on:
   workflow_dispatch:
@@ -42,7 +42,7 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
-          EMAIL_SUBJECT_PREFIX: Birdnest Live Block Alert
+          EMAIL_SUBJECT_PREFIX: Live Block Alert
           BATCH_SIZE: 20
           MONTHS_TO_COLLECT: 6
         run: |
